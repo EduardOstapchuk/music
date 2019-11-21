@@ -1,0 +1,178 @@
+body {
+  background-color: rgb(108, 121, 155);
+}
+
+.container {
+  height: 550px;
+  width: 600px;
+  background-color: rgba(29, 29, 29, 0.877);
+  margin: 0 auto;
+  position: relative;
+  top: 100px;
+  border-radius: 5px;
+}
+
+.previous {
+  height: 50px;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.671);
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.815);
+  text-shadow: 5px;
+  position: absolute;
+}
+
+#previous-top {
+  text-transform: uppercase;
+  text-shadow: rgba(0, 0, 0, 0.952);
+  text-align: left;
+  position: relative;
+  left: 20px;
+  cursor: pointer;
+}
+
+#previous-top:hover {
+  color: rgba(255, 255, 0, 0.801);
+}
+
+.container img {
+  height: 58px;
+  width: 58px;
+  display: block;
+  margin-top: 20px;
+  position: relative;
+  top: 45px;
+  left: 10px;
+  cursor: pointer;
+}
+
+#name {
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.623);
+  display: block;
+  line-height: 90px;
+  margin-top: -400px;
+  position: relative;
+  left: 100px;
+}
+
+#name2 {
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.623);
+  display: block;
+  line-height: 90px;
+  margin-top: -25px;
+  position: relative;
+  left: 100px;
+}
+
+#name3 {
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.623);
+  display: block;
+  line-height: 90px;
+  margin-top: -20px;
+  position: relative;
+  left: 100px;
+}
+
+#name4 {
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.623);
+  display: block;
+  line-height: 90px;
+  margin-top: -10px;
+  position: relative;
+  left: 100px;
+}
+
+#name5 {
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.623);
+  display: block;
+  line-height: 90px;
+  margin-top: -15px;
+  position: relative;
+  left: 100px;
+}
+
+#time1 {
+  font-size: 13px;
+  color: rgba(141, 140, 140, 0.904);
+  display: block;
+  line-height: 90px;
+  margin-top: -420px;
+  position: relative;
+  left: 100px;
+}
+
+#time2 {
+  font-size: 13px;
+  color: rgba(141, 140, 140, 0.904);
+  display: block;
+  line-height: 90px;
+  margin-top: -20px;
+  position: relative;
+  left: 100px;
+}
+
+#time3 {
+  font-size: 13px;
+  color: rgba(141, 140, 140, 0.904);
+  display: block;
+  line-height: 90px;
+  margin-top: -10px;
+  position: relative;
+  left: 100px;
+}
+
+#time4 {
+  font-size: 13px;
+  color: rgba(141, 140, 140, 0.904);
+  display: block;
+  line-height: 90px;
+  margin-top: -15px;
+  position: relative;
+  left: 100px;
+}
+
+#time5 {
+  font-size: 13px;
+  color: rgba(141, 140, 140, 0.904);
+  display: block;
+  line-height: 90px;
+  margin-top: -15px;
+  position: relative;
+  left: 100px;
+}
+
+.show {
+  height: 50px;
+  width: 600px;
+  background-color: rgba(29, 29, 29, 0.877);
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.815);
+  text-shadow: 5px;
+  position: absolute;
+  top: 500px;
+  cursor: pointer;
+}
+
+.show:hover {
+  color: rgba(255, 255, 0, 0.801);
+}
+
+#show-bottom {
+  text-align: center;
+}
+
+hr {
+  position: relative;
+  top: 144px;
+  border: 1px solid rgba(77, 77, 77, 0.479);
+}
